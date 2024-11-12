@@ -1,2 +1,6 @@
 hello venkatesh
+<<<<<<< Updated upstream
 edited by venkatesh
+=======
+hello bharath
+>>>>>>> Stashed changes
